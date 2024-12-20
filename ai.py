@@ -1,4 +1,4 @@
-#ai.py
+# ai.py
 import os
 
 from openai import OpenAI
@@ -9,7 +9,7 @@ load_dotenv()
 
 OPENAI_KEY = os.getenv("OPENAI_KEY")
 
-# Set up the OpenAI API client
+# OpenAI 객체 설정
 client = OpenAI(api_key=OPENAI_KEY)
 
 
