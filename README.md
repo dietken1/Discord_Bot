@@ -1,5 +1,5 @@
 # foss-2024-2-final
-
+Author: 소프트웨어학과 202126892 정원준
 
 
 # Python과 OpenAI API를 이용하여 개발한 디스코드 AI 봇
