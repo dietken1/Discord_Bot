@@ -4,6 +4,7 @@ Author: 소프트웨어학과 202126892 정원준
 
 # Python과 OpenAI API를 이용하여 개발한 디스코드 AI 봇
 Discord 공식 홈페이지 -> https://discord.com
+
 OpenAI  공식 홈페이지 -> https://platform.openai.com
 
 ## 아이템 선정 동기
