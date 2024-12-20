@@ -21,26 +21,19 @@ Author: 소프트웨어학과 202126892 정원준
 
 1. **설정**
 
-Discord 란
-
-OpenAI API 란
-
-Discord developer portal을 이용한 봇 세팅
-
-Discord 서버 세팅
-
-OpenAI API 세팅
+- Discord 란
+- OpenAI API 란
+- Discord developer portal을 이용한 봇 세팅
+- Discord 서버 세팅
+- OpenAI API 세팅
 
 
 2. **실습**
 
-.env 파일 작성
-
-ai.py 파일 작성
-
-bot.py 파일 작성
-
-코드 실행 및 결과 확인
+- .env 파일 작성
+- ai.py 파일 작성
+- bot.py 파일 작성
+- 코드 실행 및 결과 확인
 
 ## 개발하면서 생긴 문제점 및 해결 방법
 
