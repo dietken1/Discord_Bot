@@ -27,9 +27,9 @@ async def on_message(message):
     # OpenAI API가 대답
     messages = [{"role": "user", "content": message.content}]
     response = ask(messages)
-    # Send the response as a message
+    # 메세지 전송
     await message.channel.send(response)
 
 
-# Start the bot
+# 봇 작동
 client.run(DISCORD_TOKEN)
