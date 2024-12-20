@@ -1,4 +1,4 @@
-# foss-2024-2-final
+# FOSS 2024-2 final project
 Author: 소프트웨어학과 202126892 정원준
 
 
