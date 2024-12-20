@@ -53,5 +53,4 @@ Author: 소프트웨어학과 202126892 정원준
 앞으로 더 많은 API를 사용해서 다양한 것들을 개발하고 싶습니다.
 
 ## 참고 자료
-- [OpenAI API 사용법 총정리](https://www.magicaiprompts.com/docs/gpt-chatbot/openai-api-usage-guide/)
-- [Discord 라이브러리 사용법](https://kante-kante.tistory.com/34)
+- [OpenAI API 사용법 총정리]https://www.magicaiprompts.com/docs/gpt-chatbot/openai-api-usage-guide
