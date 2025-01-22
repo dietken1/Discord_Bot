@@ -1,6 +1,6 @@
 # FOSS 2024-2 final project
 Author: 소프트웨어학과 202126892 정원준
-
+본 프로젝튼는 아주대학교 2024년 2학기에 이환용 교수님의 오픈소스SW 입문 수업을 들으면서 진행한 오픈소스 기말 프로젝트입니다.
 
 # Python과 OpenAI API를 이용하여 개발한 디스코드 AI 봇
 - Discord 공식 홈페이지 -> https://discord.com
